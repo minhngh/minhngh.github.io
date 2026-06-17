@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >-
-  PhD Student in Computer Science at <a href="https://www.nus.edu.sg/">National University of Singapore</a>
-  &nbsp;&middot;&nbsp; minhnh [at] u [dot] nus [dot] edu
+  <p>PhD Student in Computer Science at <a href="https://www.nus.edu.sg/">National University of Singapore</a></p>
+  <p>Email: minhnh [at] u [dot] nus [dot] edu</p>
 
 profile:
   align: right
