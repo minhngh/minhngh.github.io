@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >-
   <p>PhD Student in Computer Science at <a href="https://www.nus.edu.sg/">National University of Singapore</a></p>
-  <p>Email: <a href="mailto:minhnh@u.nus.edu">minhnh [at] u [dot] nus [dot] edu</a></p>
+  <p>Email: <a href="mailto:minh.nghminh@gmail.com">minh.nghminh [at] gmail [dot] com</a> | <a href="mailto:minhnh@u.nus.edu">minhnh [at] u [dot] nus [dot] edu</a></p>
 
 profile:
   align: right
