@@ -26,6 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello (Xin chào 🇻🇳)! I'm Minh, 1st year PhD student at the National University of Singapore (NUS), advised by [Prof. Bryan Kian Hsiang Low](https://scholar.google.com.tw/citations?user=2P-Q09UAAAAJ). My research focuses on **Large Language Models**, **Multimodality**, **Agent-based systems**, and **AI4Code**.
+Hi (Xin chào 🇻🇳)! I'm Minh, 1st year PhD student at the National University of Singapore (NUS), advised by [Prof. Bryan Kian Hsiang Low](https://scholar.google.com.tw/citations?user=2P-Q09UAAAAJ). My research focuses on **Large Language Models**, **Multimodality**, **Agent-based systems**, and **AI4Code**.
 
 Before that, I earned my bachelor's degree from [University of Technology, VNU-HCM](https://hcmut.edu.vn/en) and then was an AI resident at [FPT Software AI Center](https://www.linkedin.com/company/fpt-software-ai-center/) under the supervision [Dr. Nghi D. Q. Bui](https://bdqnghi.github.io/) (Google).
