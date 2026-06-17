@@ -15,6 +15,14 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[type!=Patent] %}
+
+</div>
+
+## Patents
+
+<div class="publications">
+
+{% bibliography --query @misc[type=Patent] %}
 
 </div>
