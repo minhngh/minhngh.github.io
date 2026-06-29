@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-29'
 papers:
   5NH8qA0AAAAJ:2osOgNQ5qMEC:
     citations: 9
@@ -18,7 +18,7 @@ papers:
     title: Functional Overlap Reranking for Neural Code Generation
     year: '2024'
   5NH8qA0AAAAJ:u5HHmVD_uO8C:
-    citations: 60
+    citations: 61
     title: 'AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology'
     year: '2025'
   5NH8qA0AAAAJ:zYLM7Y9cAGgC:
