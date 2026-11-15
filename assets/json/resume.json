@@ -39,10 +39,7 @@
       "startDate": "2021-08-01",
       "endDate": "",
       "summary": "Working on Large Language Models, Multimodality, Natural Language Processing, and AI4Code under the supervision of Prof. Bryan Kian Hsiang Low",
-      "highlights": [
-        "Published 4+ papers at top venues including ICML workshops, ACL and EACL.",
-        "Research collaborations with Google researchers"
-      ]
+      "highlights": ["Published 4+ papers at top venues including ICML workshops, ACL and EACL.", "Research collaborations with Google researchers"]
     }
   ],
   "volunteer": [],
@@ -64,11 +61,11 @@
   "certificates": [],
   "publications": [
     {
-      "name": "TIGER: Bridging the Multimodal Reasoning-Access Gap via Modality Counterfactuals",
-      "publisher": "ICML 2026 FoGen Workshop",
-      "releaseDate": "2026-01-01",
-      "url": "https://openreview.net/forum?id=LgSTP4nLCY",
-      "summary": "A novel approach to address the gap between multimodal reasoning capabilities and access to multimodal information through modality counterfactuals."
+      "name": "Seeing Isn't Enough: Unlocking Visual Reasoning by Bridging the Reasoning-Access Gap with TIGER",
+      "publisher": "NeurIPS 2026",
+      "releaseDate": "2026-11-07",
+      "url": "https://arxiv.org/abs/2611.10552",
+      "summary": "TIGER targets problems a model solves as text but fails to solve as rendered images, then trains on the image inputs with GRPO, with SFT and DPO as alternative objectives. Training on synthetic rendered-text images improves reasoning across real-world visual benchmarks."
     },
     {
       "name": "AgileCoder: Dynamic Collaborative Agents for Software Development based on Agile Methodology",
@@ -90,26 +87,13 @@
       "name": "Machine Learning & AI",
       "level": "Expert",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Large Language Models",
-        "Natural Language Processing",
-        "Deep Learning",
-        "PyTorch",
-        "TensorFlow",
-        "AI4Code"
-      ]
+      "keywords": ["Large Language Models", "Natural Language Processing", "Deep Learning", "PyTorch", "TensorFlow", "AI4Code"]
     },
     {
       "name": "Software Engineering",
       "level": "Advanced",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "Code Generation",
-        "Software Development",
-        "Git",
-        "Agile Methodology"
-      ]
+      "keywords": ["Python", "Code Generation", "Software Development", "Git", "Agile Methodology"]
     }
   ],
   "languages": [
@@ -128,14 +112,7 @@
     {
       "name": "Research Interests",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Large Language Models",
-        "Multimodality",
-        "Natural Language Processing",
-        "AI4Code",
-        "Machine Learning",
-        "Code Generation"
-      ]
+      "keywords": ["Large Language Models", "Multimodality", "Natural Language Processing", "AI4Code", "Machine Learning", "Code Generation"]
     }
   ],
   "references": [],
@@ -149,8 +126,9 @@
     },
     {
       "name": "TIGER",
-      "summary": "Bridging the Multimodal Reasoning-Access Gap via Modality Counterfactuals - A novel approach to enhance multimodal reasoning capabilities.",
-      "highlights": ["Multimodal reasoning", "Counterfactual learning", "Vision-language models"],
+      "summary": "Text-to-Image Gap-targeted training for Enhanced Reasoning: mining text-success/image-failure examples to help multimodal models access their existing reasoning capabilities from visual inputs.",
+      "url": "https://github.com/minhngh/Tiger",
+      "highlights": ["Visual reasoning", "Modality counterfactuals", "GRPO, SFT, and DPO"],
       "startDate": "2025-01-01",
       "endDate": "2026-01-01"
     }
